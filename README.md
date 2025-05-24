@@ -5,4 +5,4 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/esinfotec) 
 
-<img src="(https://repository-images.githubusercontent.com/989653600/e93ec218-b3ec-4e4e-b5a5-89e176bf7044)" alt="Descripción de la imagen" width="200" height="150" title="Imagen de ejemplo">
+<img src="[(https://repository-images.githubusercontent.com/989653600/e93ec218-b3ec-4e4e-b5a5-89e176bf7044)]" alt="" width="1280" height="640" title="">
