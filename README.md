@@ -3,5 +3,3 @@
 
 ![CajaFuerte](https://github.com/user-attachments/assets/b883130f-f40d-4047-b61e-3d3d55247805)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/esinfotec) 
