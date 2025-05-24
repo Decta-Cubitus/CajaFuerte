@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hola, soy @Decta-cubitus<br>👀Estoy interesado en programación y ciberseguridad y hacking ético.<br>🌱Actualmente estoy aprendiendo JavaScript, PHP y Linux.<br>💞️ Estoy buscando colaborar en proyectos pequeños de frontend, <br>que incluyan JavaScript y SQL, ya que es la base que actualmente necesito <br>acorde a mis conocimientos en programación. <br>📫 Cómo llegar a mí, contactar a través de mi perfil de GitHub:<br>https://github.com/Decta-cubitus
+👋 Hola, soy @Decta-cubitus<br>👀Estoy interesado en programación, ciberseguridad y hacking ético.<br>🌱Actualmente estoy aprendiendo JavaScript, PHP y Linux.<br>💞️ Estoy buscando colaborar en proyectos pequeños de frontend, <br>que incluyan JavaScript y SQL, ya que es la base que actualmente necesito <br>acorde a mis conocimientos en programación. <br>📫 Cómo llegar a mí, contactar a través de mi perfil de GitHub:<br>https://github.com/Decta-cubitus
 
 
 ## 🌐 Socials:
